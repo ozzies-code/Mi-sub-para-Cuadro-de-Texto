@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\bin\Debug\Mi Sub para Cuadro de Texto.exe.config
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\bin\Debug\Mi Sub para Cuadro de Texto.exe
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\bin\Debug\Mi Sub para Cuadro de Texto.pdb
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\bin\Debug\Mi Sub para Cuadro de Texto.xml
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\obj\Debug\Mi Sub para Cuadro de Texto.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\obj\Debug\Mi_Sub_para_Cuadro_de_Texto.Form1.resources
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\obj\Debug\Mi_Sub_para_Cuadro_de_Texto.Resources.resources
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\obj\Debug\Mi Sub para Cuadro de Texto.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\obj\Debug\Mi Sub para Cuadro de Texto.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\obj\Debug\Mi Sub para Cuadro de Texto.exe
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\obj\Debug\Mi Sub para Cuadro de Texto.xml
+C:\Users\oswal\source\repos\Mi Sub para Cuadro de Texto\obj\Debug\Mi Sub para Cuadro de Texto.pdb
